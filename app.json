@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Learning React Native by Building a Weather App",
+    "githubUrl": "https://github.com/Nanjae/weather-app"
   }
 }
